@@ -1,10 +1,12 @@
 # Parasmani Trivedi
-Rae Bareli (Uttar Pradesh), India
-Mobile: +91 7992022029
-Email: [trivedigulshan9454@gmail.com](mailto:trivedigulshan9454@gmail.com)
-GitHub: [Parasmani29](https://github.com/Parasmani29)
-LinkedIn: [Parasmani Trivedi](https://www.linkedin.com/in/parasmani-trivedi-21p)
-GeeksforGeeks: [trivedigulshan9454](https://auth.geeksforgeeks.org/user/trivedigulshan9454)
+
+📍 Rae Bareli, Uttar Pradesh, India  
+📱 +91 7992022029  
+📧 [trivedigulshan9454@gmail.com](mailto:trivedigulshan9454@gmail.com)  
+💼 [GitHub](https://github.com/Parasmani29)  
+💼 [LinkedIn](https://www.linkedin.com/in/parasmani-trivedi-21p)  
+💼 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/trivedigulshan9454)
+
 
 ## EDUCATION
 ### Bachelor of Technology, Computer Science and Engineering
